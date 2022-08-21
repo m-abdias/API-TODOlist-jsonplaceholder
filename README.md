@@ -41,7 +41,7 @@ Pré-requisitos: npm / yarn
 git clone https://github.com/m-abdias/API-TODOlist-jsonplaceholder
 
 # entrar na pasta do projeto 
-cd todo-list
+cd todolist
 
 # instalar dependências
 yarn install ou npm install
