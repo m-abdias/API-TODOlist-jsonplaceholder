@@ -6,7 +6,7 @@
  
 ## 🌎 Acesse o projeto 
 
-**[Link](https://impossible-mark.surge.sh/)**
+Você pode visualizar o projeto no ar através desse [Link](https://impossible-mark.surge.sh/)
 
  
 ## 💻 Sobre o projeto 
