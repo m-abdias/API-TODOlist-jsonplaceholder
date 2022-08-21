@@ -5,21 +5,10 @@ export const CardUser = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 22vh;
+  height: 12vh;
   width: 100%;
   border: 0.5px solid #b8ff01;
   border-radius: 5px;
-`
-
-export const Name = styled.h1`
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 1rem;
-  color: black;
-`
-
-export const Button = styled.button`
-  padding: 8px 50px;
-
   max-width: 100%;
   color: #6d28d9;
   background-color: #b8ff01;
@@ -36,3 +25,11 @@ export const Button = styled.button`
     transform: scale(0.95);
   }
 `
+
+export const Name = styled.h1`
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.2rem;
+  color: dark;
+`
+
+
